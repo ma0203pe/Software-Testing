@@ -1,0 +1,5 @@
+cat
+dog
+the cat sleeps
+a bird flies
+the Cat runs
