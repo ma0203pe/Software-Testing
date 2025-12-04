@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class SearchStrings {
-
+	//This code has a limitation where it searches for the substring of the word
 	public static void main(String[] args) {
 		
 		if (args.length != 2) {
